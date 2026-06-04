@@ -76,19 +76,6 @@ Automated pipeline for cleaning and preprocessing datasets.
 
 **Tools:** Python, Pandas
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mezo01127&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mezo01127&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mezo01127&theme=tokyonight&hide_border=true"/>
-</p>
 
 
 ---
